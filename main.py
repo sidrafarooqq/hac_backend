@@ -83,7 +83,7 @@ app.add_middleware(
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello from Subhan Kaladi"}
+    return {"message": "Hello from Sidra Faroo"}
 
 
 class ChatMessage(BaseModel):
